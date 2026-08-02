@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apollo"
+  short_description: "Apollo workspace and task scenario rules"
+  default_prompt: "Use the Apollo skill to work within the Apollo workspace rules and task scenario context."
